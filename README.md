@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IBM-DS-Capstone: SpaceX Falcon 9 First Stage Landing Prediction
 
 This repository contains the files and projects for the capstone project of the Data Science Professional Certificate provided by IBM on Coursera. The goal of the project is to develop a machine learning pipeline to predict the success of landing the first stage of the Falcon 9 rocket.
@@ -61,3 +62,6 @@ The project is structured around the following key tasks:
 The analysis and predictive modeling performed in this project aim to enhance decision-making for SpaceX and other companies in the space industry. By predicting the successful landings of rocket first stages, we can estimate the cost of launches more accurately and improve the economic feasibility of space missions.
 
 For detailed results and findings, please refer to the specific notebooks and documents within this repository.
+=======
+# DS-coursera
+>>>>>>> 64f755a6bbf2f16192dd1d2e09667506b21f12f3
